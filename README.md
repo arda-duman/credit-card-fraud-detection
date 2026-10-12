@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/credit-card-fraud-detection/blob/main/fraud_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arda-duman/credit-card-fraud-detection/blob/main/fraud_detection.ipynb)
 
 A machine learning model that flags fraudulent credit card transactions. The project is a case study in handling extreme class imbalance and choosing evaluation metrics that actually matter when only 0.17% of the data is the class you care about.
 
