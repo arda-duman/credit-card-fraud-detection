@@ -1,0 +1,24 @@
+# Dataset (downloaded automatically with kagglehub, too large for GitHub)
+creditcard.csv
+*.csv
+data/
+
+# Saved models
+*.pkl
+*.joblib
+*.json.model
+*.ubj
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environments and secrets
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
